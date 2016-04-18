@@ -1,0 +1,10 @@
+{
+    "name": "dom-helpers",
+    "description": "tiny modular DOM lib for ie8+ ",
+    "repos": "https://github.com/jquense/dom-helpers.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "2.4.0"
+}
